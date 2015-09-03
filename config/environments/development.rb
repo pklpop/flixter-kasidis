@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Flixter1::Application.configure do
+=======
+Flixter::Application.configure do
+>>>>>>> cd86766767978cdba6a71df4e9470d74ba57bcd1
     config.action_mailer.default_url_options = { :host => 'localhost:3030' }
   # Settings specified here will take precedence over those in config/application.rb.
 

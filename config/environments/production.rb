@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Flixter1::Application.configure do
+=======
+Flixter::Application.configure do
+>>>>>>> cd86766767978cdba6a71df4e9470d74ba57bcd1
    config.action_mailer.default_url_options = { :host => 'flixter-kasidis.herokuapp.com' }
   # Settings specified here will take precedence over those in config/application.rb.
 
@@ -28,7 +32,11 @@ Flixter1::Application.configure do
   # config.assets.css_compressor = :sass
 
   # Do not fallback to assets pipeline if a precompiled asset is missed.
+<<<<<<< HEAD
   config.assets.compile = false
+=======
+  config.assets.compile = true
+>>>>>>> cd86766767978cdba6a71df4e9470d74ba57bcd1
 
   # Generate digests for assets URLs.
   config.assets.digest = true

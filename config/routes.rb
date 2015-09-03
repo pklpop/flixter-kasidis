@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Flixter1::Application.routes.draw do
   devise_for :users
     root 'static_pages#index'
@@ -6,6 +7,12 @@ Flixter1::Application.routes.draw do
       resources :courses, :only => [:new, :create, :show]
     end
   end
+=======
+Flixter::Application.routes.draw do
+
+  devise_for :users
+  root 'static_pages#index'
+>>>>>>> cd86766767978cdba6a71df4e9470d74ba57bcd1
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
@@ -60,3 +67,7 @@ Flixter1::Application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
+<<<<<<< HEAD
+=======
+end
+>>>>>>> cd86766767978cdba6a71df4e9470d74ba57bcd1

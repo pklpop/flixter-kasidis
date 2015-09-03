@@ -1,6 +1,10 @@
 # Use this setup block to configure all options available in SimpleForm.
 SimpleForm.setup do |config|
+<<<<<<< HEAD
   config.input_class = "form-control"
+=======
+   config.input_class = "form-control"
+>>>>>>> cd86766767978cdba6a71df4e9470d74ba57bcd1
   # Wrappers are used by the form builder to generate a
   # complete input. You can remove any component from the
   # wrapper, change the order or even add your own to the

@@ -119,7 +119,11 @@ GEM
     turbolinks (2.5.3)
       coffee-rails
     tzinfo (0.3.44)
+<<<<<<< HEAD
     uglifier (2.7.2)
+=======
+    uglifier (2.7.1)
+>>>>>>> cd86766767978cdba6a71df4e9470d74ba57bcd1
       execjs (>= 0.3.0)
       json (>= 1.8.0)
     warden (1.2.3)
@@ -131,7 +135,11 @@ PLATFORMS
 DEPENDENCIES
   bootstrap-sass (~> 3.3.4)
   coffee-rails (~> 4.0.0)
+<<<<<<< HEAD
   devise (>= 3.2.4)
+=======
+  devise
+>>>>>>> cd86766767978cdba6a71df4e9470d74ba57bcd1
   jbuilder (~> 1.2)
   jquery-rails
   pg

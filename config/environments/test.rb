@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Flixter1::Application.configure do
+=======
+Flixter::Application.configure do
+>>>>>>> cd86766767978cdba6a71df4e9470d74ba57bcd1
   # Settings specified here will take precedence over those in config/application.rb.
 
   # The test environment is used exclusively to run your application's
